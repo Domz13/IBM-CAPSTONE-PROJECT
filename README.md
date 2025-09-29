@@ -16,4 +16,6 @@ Data Wrangling: Removed nulls/outliers, grouped age/education levels, aggregated
 Tools Used:
 Python
 Excel
-IBM Cognos Analytics
+IBM Cognos Analytics.
+
+PS: some charts look damaged while screenshoting them due to some Cognos Analytics limitations.
